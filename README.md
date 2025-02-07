@@ -1,12 +1,22 @@
-<<<<<<< HEAD
-# Brand-page-design
-=======
-# React + Vite
+Brand Page Design 🛍️
+This is a React.js project that showcases a stylish brand page design. It features a clean UI with a hero section that promotes shoes, along with purchase options and brand availability logos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Features
+✔️ Modern and responsive UI using Tailwind CSS
+✔️ Hero section with a bold headline and product image
+✔️ Description paragraph for promotional content
+✔️ Call-to-action buttons for user engagement
+✔️ Availability logos (Amazon & Flipkart)
+✔️ Navbar
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+React.js
+Tailwind CSS
+Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> d0801c9 (Initial commit)
+📬 Contact
+For any issues or suggestions, feel free to reach out! 😊
+
+
+
+
