@@ -6,7 +6,7 @@ import "../App.css"
 
 const Navbar = () => {
   return (
-    <div className="navbar fw-full h-[72px] bg-white flex items-center justify-between px-10 z-50 shadow-md mb-7">
+    <div className="navbar w-full h-[72px] bg-white flex items-center justify-between px-10 z-50 shadow-md mb-7">
       {/* Image */}
       <div>
         <img src={brandlogo} alt="Brand Logo" />
